@@ -1,0 +1,17 @@
+{
+  "name": "quizbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quizbot.js",
+  "scripts": {
+    "dev": "nodemon --use_strict Quizbot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.9.1",
+    "botkit": "0.0.7",
+    "fuzzy-filter": "0.0.3"
+  }
+}
